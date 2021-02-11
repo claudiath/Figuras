@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.csproj.CoreCompileInputs.cache
